@@ -39,3 +39,6 @@ flowchart LR
 - Add indexes: unique on `organizations.organization_name`, `admins.email`; consider TTL/archival per tenant as data grows.
 - Security: rotate JWT secret, add refresh tokens, enforce HTTPS, and store secrets outside code.
 
+## Tooling Note
+- Project scaffolded and implemented with assistance from Cursor AI.
+
