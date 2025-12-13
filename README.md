@@ -40,5 +40,5 @@ flowchart LR
 - Security: rotate JWT secret, add refresh tokens, enforce HTTPS, and store secrets outside code.
 
 ## Tooling Note
-- Project scaffolded and implemented with assistance from Cursor AI.
+- I have taken assistance of CursorAI 
 
